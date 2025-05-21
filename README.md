@@ -50,7 +50,6 @@ Se implementan procesos de:
 ![Distribucion Costos](images/graph_7.png)
 
 ### 🧭 LTV 
-![LTV](images/graph_10.png)
 ![LTV](images/graph_8.png)
 - En promedio un cliente nos reporta ingresos de 18.2$
 
