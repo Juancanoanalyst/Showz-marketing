@@ -35,10 +35,18 @@ Se implementan procesos de:
 
 ### 📈 Tasa de Conversión 
 
-![Conversión en dias](images/graph_2.png)
+<p align="center">
+    <img src="images/graph_2.png"  alt="Conversión en dias]" widht = 75%>
+</p>
+
 - Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
 
-![Conversión en meses](images/graph_3.png)
+<p align="center">
+    <img src="images/graph_3.png"  alt="Conversión en meses]" widht = 75%>
+</p>
+
+
+
 - Ratifica que la mayoria de los clientes compran en el primer mes.
 
 
@@ -68,14 +76,25 @@ Se implementan procesos de:
 
 ---
 
-![Costo mensual por fuente](images/graph_12.png)
+
+
+<p align="center">
+    <img src="images/graph_12.png"  alt="Costo mensual por fuente" widht = 70%>
+</p>
+
 
 ### 💸 CAC por Fuente  
-![Costo de adquisicion por cliente](images/graph_13.png)
+
+
+<p align="center">
+    <img src="images/graph_13.png"  alt="Costo de adquisicion por cliente" widht = 70%>
+</p>
 
 
 ### 📉 ROMI 
-![Retorno a la inversion](images/graph_14.png)
+<p align="center">
+    <img src="images/graph_14.png"  alt="Retorno a la inversion" widht = 70%>
+</p>
 
 
 ---
