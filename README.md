@@ -47,7 +47,7 @@ Se implementan procesos de:
 
 <p align="center">
   <img src="images/graph_4.png" alt="Tendencia compras" width="50%" />
-  <img src="images/graph_5.png" alt="Ingreso promedio por compra" width="45%" />
+  <img src="images/graph_5.png" alt="Ingreso promedio por compra" width="47%" />
 </p>
 
 
@@ -55,7 +55,7 @@ Se implementan procesos de:
 
 
 <p align="center">
-  <img src="images/graph_6.png" alt="Distribucion Ingresos" width="45%" />
+  <img src="images/graph_6.png" alt="Distribucion Ingresos" width="47%" />
   <img src="images/graph_7.png" alt="Distribucion Costos" width="45%" />
 </p>
 
@@ -65,6 +65,9 @@ Se implementan procesos de:
 
 ### 📊 Comparación de Costos Marketing 
 ![Comparación de costos por fuente y mes primera compra](images/graph_11.png)
+
+---
+
 ![Costo mensual por fuente](images/graph_12.png)
 
 ### 💸 CAC por Fuente  
