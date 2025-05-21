@@ -26,14 +26,18 @@ Se implementan procesos de:
 ## 📈 Principales Resultados
 
 ### 🧑‍💻 Comportamiento de los usuarios
+
+![Sesiones por usuario](images/graph_1.png)
 - Se encuentra que un usuario en promedio dura 664 segundos en la pagina .
 - En promedio cada usuario vuelve 1 vez a la semana.
-![Sesiones por usuario](images/graph_1.png)
+
 
 
 ### 📈 Tasa de Conversión 
+
 ![Conversión en dias](images/graph_2.png)
 - Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
+
 ![Conversión en meses](images/graph_3.png)
 - Ratifica que la mayoria de los clientes compran en el primer mes.
 
@@ -58,7 +62,7 @@ Se implementan procesos de:
 
 
 ### 📉 ROMI 
-![Retorno a la inversion](images/graph_76.png)
+![Retorno a la inversion](images/graph_14.png)
 
 
 ---
