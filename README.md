@@ -45,6 +45,13 @@ Se implementan procesos de:
 ### 💰Comportamiento compras
 ![Tendencia compras](images/graph_4.png)
 ![Ingreso promedio por compra](images/graph_5.png)
+
+<p align="center">
+  <img src="images/graph_4.png" alt="Tendencia compras" width="45%" />
+  <img src="images/graph_5.png" alt="Ingreso promedio por compra" width="45%" />
+</p>
+
+
 - En promedio por cada compra se ingresan 8.62$ Dolares.
 ![Distribucion Ingresos](images/graph_6.png)
 ![Distribucion Costos](images/graph_7.png)
