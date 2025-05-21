@@ -27,7 +27,12 @@ Se implementan procesos de:
 
 ### 🧑‍💻 Comportamiento de los usuarios
 
-![Sesiones por usuario](images/graph_1.png)
+
+
+<p align="center">
+    <img src="images/graph_1.png"  alt="Sesiones por usuario" widht = 70%>
+</p>
+
 - Se encuentra que un usuario en promedio dura 664 segundos en la pagina .
 - En promedio cada usuario vuelve 1 vez a la semana.
 
@@ -36,13 +41,13 @@ Se implementan procesos de:
 ### 📈 Tasa de Conversión 
 
 <p align="center">
-    <img src="images/graph_2.png"  alt="Conversión en dias]" widht = 75%>
+    <img src="images/graph_2.png"  alt="Conversión en dias" widht = 70%>
 </p>
 
 - Durante el primer dia el 72.18% de los clientes toman la decision de comprar.
 
 <p align="center">
-    <img src="images/graph_3.png"  alt="Conversión en meses]" widht = 75%>
+    <img src="images/graph_3.png"  alt="Conversión en meses" widht = 70%>
 </p>
 
 
@@ -55,7 +60,7 @@ Se implementan procesos de:
 
 <p align="center">
   <img src="images/graph_4.png" alt="Tendencia compras" width="50%" />
-  <img src="images/graph_5.png" alt="Ingreso promedio por compra" width="47%" />
+  <img src="images/graph_5.png" alt="Ingreso promedio por compra" width="48%" />
 </p>
 
 
@@ -64,15 +69,24 @@ Se implementan procesos de:
 
 <p align="center">
   <img src="images/graph_6.png" alt="Distribucion Ingresos" width="47%" />
-  <img src="images/graph_7.png" alt="Distribucion Costos" width="45%" />
+  <img src="images/graph_7.png" alt="Distribucion Costos" width="46%" />
 </p>
 
 ### 🧭 LTV 
-![LTV](images/graph_8.png)
+
+<p align="center">
+    <img src="images/graph_8.png"  alt="LTV" widht = 70%>
+</p>
+
 - En promedio un cliente nos reporta ingresos de 18.2$
 
+
 ### 📊 Comparación de Costos Marketing 
-![Comparación de costos por fuente y mes primera compra](images/graph_11.png)
+
+<p align="center">
+    <img src="images/graph_11.png"  alt="Comparación de costos por fuente y mes primera compra" widht = 70%>
+</p>
+
 
 ---
 
