@@ -51,6 +51,7 @@ Se implementan procesos de:
 
 ### 🧭 LTV 
 ![LTV](images/graph_10.png)
+![LTV](images/graph_8.png)
 - En promedio un cliente nos reporta ingresos de 18.2$
 
 ### 📊 Comparación de Costos Marketing 
